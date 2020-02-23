@@ -1,5 +1,5 @@
 # Dive-into-Deep-Learning
-《动手学习深度学习》（Dive into Deep Learning）14天公益学习笔记。
+《动手学习深度学习》（Dive into Deep Learning）14天公益学习笔记(内容太多，不可能在14天内学完，需要逐步完善)。
 
 笔记以《动手学习深度学习》为主线；
 
